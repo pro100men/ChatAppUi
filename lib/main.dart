@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         drawerTheme: const DrawerThemeData(scrimColor: Colors.transparent),
       ),
-      title: 'New Whatsapp UI',
+      title: 'New Whatsapp',
       home: const MyHomePage(),
     );
   }
